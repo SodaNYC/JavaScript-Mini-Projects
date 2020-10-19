@@ -1,4 +1,4 @@
-### Introduction
+### Introduction of method 2
 
 To solve the pesky "return to zero" problem, we can also edit the function by calculating how much degree the hour, minute and second arms will move each second rather than comment the transition property out. 
 
