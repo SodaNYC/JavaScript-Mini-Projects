@@ -1,4 +1,4 @@
-##Introduction
+### Introduction of method 1
 
 To solve the pesky "return to zero" problem, we can easily comment out the transition property of the id=second attribute. 
 
