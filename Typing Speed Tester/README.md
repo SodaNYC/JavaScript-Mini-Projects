@@ -1,6 +1,6 @@
 ### Introduction
 
-This is a mini project to practice the DOM manipulation, how to use the events by using JavaScript and some mathmatic calculation. 
+This is a mini project to practice the DOM manipulation, how to use the events by using JavaScript and some mathmatic calculation from the JavaScript Essential Training course on the Linkedin Learning platform. 
 
 The goal is to duplicate the provided text, EXACTLY, in the input field. The timer starts when you start typing, and only stops when you match this text exactly. 
 
