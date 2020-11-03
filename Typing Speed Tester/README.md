@@ -8,9 +8,9 @@ When you are typing, if the typing text is correct, we'll have a blue line aroun
 
 This project fully focus on the JavaScript part, the HTML and CSS files were premade.
 
-#### preview
+### preview
 <p align="center">
-<img src="images/tester_correct.png">
-<img src="images/tester_incorrect.png">
-<img src="tester_correct_finish.png">
+  <img src="images/tester_correct.png">
+  <img src="images/tester_incorrect.png">
+  <img src="tester_correct_finish.png">
 </p>
