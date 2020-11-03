@@ -12,5 +12,5 @@ This project fully focus on the JavaScript part, the HTML and CSS files were pre
 <p align="center">
   <img src="images/tester_correct.png">
   <img src="images/tester_incorrect.png">
-  <img src="tester_correct_finish.png">
+  <img src="images/tester_correct_finish.png">
 </p>
