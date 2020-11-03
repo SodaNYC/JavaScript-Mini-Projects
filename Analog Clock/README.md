@@ -8,5 +8,5 @@ This project fully focus on the JavaScript part, the HTML and CSS files were pre
 
 ### preview
 <p align="center">
-  <img src="images/clock.png" width="337.4" height="327.6"/>
+  <img src="images/clock.png" width="30%" height= "30%">
 </p>
