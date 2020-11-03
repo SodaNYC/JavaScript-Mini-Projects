@@ -10,7 +10,7 @@ This project fully focus on the JavaScript part, the HTML and CSS files were pre
 
 ### preview
 <p align="center">
-  <img src="images/tester_correct.png">
-  <img src="images/tester_incorrect.png">
-  <img src="images/tester_correct_finish.png">
+  <img src="images/tester_correct.png" width="80%" height= "80%"/>
+  <img src="images/tester_incorrect.png" width="80%" height= "80%">
+  <img src="images/tester_correct_finish.png" width="80%" height= "80%">
 </p>
